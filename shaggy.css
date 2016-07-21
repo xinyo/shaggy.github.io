@@ -1,0 +1,17 @@
+div{
+	width: 1601px;
+	margin:0 auto;
+	text-align: center;
+}
+.shaggy1{
+	position: relative;
+}
+.shaggy2{
+	position: absolute;
+	right: 150px;
+	top: 260px;
+	opacity: 0;
+}
+.shaggy2:hover{
+	opacity: 1;
+}
